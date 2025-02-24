@@ -13,8 +13,16 @@
     <div style="margin: 0 auto; text-align: left;"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">              <img src="https://img.shields.io/badge/LangChain-0055A4?style=flat-square&logo=LangChain&logoColor=white">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+        <img src="https://img.shields.io/badge/LangChain-0055A4?style=flat-square&logo=LangChain&logoColor=white">
         <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white">
+    </div>
+</div>
+<div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔧 Tools </h2> <br> 
+    <div style="margin: 0 auto; text-align: left;"> 
+        <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
     </div>
 </div>
 <div>
