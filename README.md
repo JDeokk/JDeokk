@@ -9,12 +9,6 @@
     </a>
 </div>
 
-
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-    <li>Department of Computer Engineering, Hallym University</li>
-    <li>Graduate Student in MMC Lab (MultiMedia Laboratory)</li>
-</div>
-
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
     <li>Department of Computer Engineering, Hallym University</li>
     <li>Graduate Student in MMC Lab (MultiMedia Laboratory)</li>
