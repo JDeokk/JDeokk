@@ -1,25 +1,25 @@
-<div align= "center">
+<div>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b79e1,100:38d1e5&height=180&text=Jeongdeok's%20github&animation=twinkling&fontColor=ffffff&fontSize=70" />
 </div>
-<div align= "center"> 
+<div> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Jeongdeok Jo </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         <li>Department of Computer Engineering, Hallym University</li>
         <li>Graduate Student in MMC Lab (MultiMedia Laboratory)</li>
     </div> 
 </div>
-<div align= "center">
+<div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+    <div style="margin: 0 auto; text-align: left;"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">              <img src="https://img.shields.io/badge/LangChain-0055A4?style=flat-square&logo=LangChain&logoColor=white">
         <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white">
     </div>
 </div>
-<div align= "center">
+<div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📄 Papers </h2> <br>
-    <table border="1" style="border-collapse: collapse; width: 80%; text-align: center; font-size: 12px;">
+    <table border="1" style="border-collapse: collapse; width: 80%; text-align: left; font-size: 12px;">
         <tr>
             <th style="padding: 10px; background-color: #f2f2f2;">Title</th>
             <th style="padding: 10px; background-color: #f2f2f2;">Publication</th>
@@ -42,9 +42,9 @@
         </tr>
     </table>
 </div>
-<div align= "center">
+<div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Extracurricular Awards </h2> <br>
-    <table border="1" style="border-collapse: collapse; width: 80%; text-align: center; font-size: 12px;">
+    <table border="1" style="border-collapse: collapse; width: 80%; text-align: left; font-size: 12px;">
         <tr>
             <th style="padding: 10px; background-color: #f2f2f2;">Award</th>
             <th style="padding: 10px; background-color: #f2f2f2;">Year</th>
@@ -72,7 +72,7 @@
         </tr>
     </table>
 </div>
-<div align= "left">
+<div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 Patents </h2> <br>
     <ul style="text-align: left; font-size: 12px;">
         <li><b>2023.12</b> - 차량의 부적합한 1차로 주행을 판별하는 전자 장치 및 이의 제어 방법</li>
