@@ -3,13 +3,12 @@
 </div>
 
 <div style="display: flex; align-items: center;">
-    <h2 style="border-bottom: none; color: #282d33; margin: 0; padding-right: 10px;">Jeongdeok Jo</h2>
-    <div style="display: flex; gap: 5px;">
-        <a href="mailto:jeongdeogjo65@gmail.com" style="display: inline-block;">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-    </div>
+    <h2 style="margin: 0; padding-right: 10px; color: #282d33;">Jeongdeok Jo</h2>
+    <a href="mailto:jeongdeogjo65@gmail.com" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Icon">
+    </a>
 </div>
+
 
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
     <li>Department of Computer Engineering, Hallym University</li>
