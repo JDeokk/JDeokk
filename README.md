@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b79e1,100:38d1e5&height=180&text=Jeongdeok's%20github&animation=twinkling&fontColor=ffffff&fontSize=70" />
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; margin-bottom: 4px;"> Jeongdeok Jo </h2>
+<div style="display: flex; align-items: center;">
+    <h2 style="border-bottom: none; color: #282d33; margin: 0; padding-right: 10px;">Jeongdeok Jo</h2>
     <div style="display: flex; gap: 5px;">
         <a href="mailto:jeongdeogjo65@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
@@ -13,6 +13,12 @@
         </a>
     </div>
 </div>
+
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+    <li>Department of Computer Engineering, Hallym University</li>
+    <li>Graduate Student in MMC Lab (MultiMedia Laboratory)</li>
+</div>
+
 
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
     <li>Department of Computer Engineering, Hallym University</li>
