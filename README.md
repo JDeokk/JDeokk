@@ -13,9 +13,8 @@
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">              <img src="https://img.shields.io/badge/LangChain-0055A4?style=flat-square&logo=LangChain&logoColor=white">
         <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white">
-        <img src="https://img.shields.io/badge/LangChain-0055A4?style=flat-square&logo=LangChain&logoColor=white">
     </div>
 </div>
 <div align= "center">
@@ -73,7 +72,7 @@
         </tr>
     </table>
 </div>
-<div align= "center">
+<div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 Patents </h2> <br>
     <ul style="text-align: left; font-size: 12px;">
         <li><b>2023.12</b> - 차량의 부적합한 1차로 주행을 판별하는 전자 장치 및 이의 제어 방법</li>
