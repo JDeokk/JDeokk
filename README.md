@@ -69,7 +69,7 @@
             <td style="padding: 10px;">태양 흑점, 홍염, 코로나홀 탐지</td>
         </tr>
         <tr>
-            <td style="padding: 10px;">SW 중심대학 디지털 경진대회: AI 부문, 후원기업상</td>
+            <td style="padding: 10px;">SW 중심대학 디지털 경진대회: AI 부문 후원기업상</td>
             <td style="padding: 10px;">2024.08</td>
             <td style="padding: 10px;">생성 AI의 가짜(Fake) 음성 검출 및 탐지</td>
         </tr>
