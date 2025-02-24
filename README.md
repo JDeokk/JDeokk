@@ -24,7 +24,6 @@
         <a href=mailto:jeongdeogjo65@gmail.com> 
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongdeogjo65@gmail.com"> 
         </a>
-        -
         <a href=https://www.instagram.com/j_duckkk/?igsh=MTBycW02b2xiamF1NA%3D%3D&utm_source=qr#> 
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_duckkk/?igsh=MTBycW02b2xiamF1NA%3D%3D&utm_source=qr#"> 
         </a>
