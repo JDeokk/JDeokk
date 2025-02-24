@@ -27,19 +27,33 @@
             <th style="padding: 10px; background-color: #f2f2f2;">Description</th>
         </tr>
         <tr>
-            <td style="padding: 10px;">Example Award</td>
-            <td style="padding: 10px;">2024</td>
-            <td style="padding: 10px;">Award description goes here</td>
+            <td style="padding: 10px;">SW 인재 페스티벌 인기상</td>
+            <td style="padding: 10px;">2024.12</td>
+            <td style="padding: 10px;">CPR 자가 학습을 위한 AI 기반 피드백 어플리케이션</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px;">한국 천문연구원 천문 우주 AI 경진대회 화성상(우수상)</td>
+            <td style="padding: 10px;">2024.09</td>
+            <td style="padding: 10px;">태양 흑점, 홍염, 코로나홀 탐지</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px;">SW 중심대학 디지털 경진대회: AI 부문, 후원기업상</td>
+            <td style="padding: 10px;">2024.08</td>
+            <td style="padding: 10px;">생성 AI의 가짜(Fake) 음성 검출 및 탐지</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px;">제 4회 대한민국 SW융합 해커톤 대회 자유과제 정보통신산업진흥원장상(우수상)</td>
+            <td style="padding: 10px;">2017.09</td>
+            <td style="padding: 10px;">시각장애인을 위한 센서 기반 지팡이</td>
         </tr>
     </table>
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> 
+    <div align= "center" style="display: flex; justify-content: center; gap: 15px;"> 
         <a href=mailto:jeongdeogjo65@gmail.com> 
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongdeogjo65@gmail.com"> 
         </a>
-        -
         <a href=https://www.instagram.com/j_duckkk/?igsh=MTBycW02b2xiamF1NA%3D%3D&utm_source=qr#> 
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_duckkk/?igsh=MTBycW02b2xiamF1NA%3D%3D&utm_source=qr#"> 
         </a>
