@@ -9,6 +9,17 @@
     </div> 
 </div>
 <div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; margin-bottom: 4px;"> 📧 Contact </h2>
+    <div style="margin: 0 auto; text-align: left;"> 
+        <a href="mailto:jeongdeogjo65@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <a href="https://www.instagram.com/j_duckkk/?igsh=MTBycW02b2xiamF1NA%3D%3D&utm_source=qr#">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+        </a>
+    </div>
+</div>
+<div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; margin-bottom: 4px;"> 🛠️ Tech Stacks </h2>
     <div style="margin: 0 auto; text-align: left;"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
@@ -85,15 +96,4 @@
     <ul style="text-align: left; font-size: 12px;">
         <li><b>2023.12</b> - 차량의 부적합한 1차로 주행을 판별하는 전자 장치 및 이의 제어 방법</li>
     </ul>
-</div>
-<div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; margin-bottom: 4px;"> 📧 Contact </h2>
-    <div style="margin: 0 auto; text-align: left;"> 
-        <a href="mailto:jeongdeogjo65@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <a href="https://www.instagram.com/j_duckkk/?igsh=MTBycW02b2xiamF1NA%3D%3D&utm_source=qr#">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
-        </a>
-    </div>
 </div>
