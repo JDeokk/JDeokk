@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b79e1,100:38d1e5&height=180&text=Jeongdeok's%20github&animation=twinkling&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b79e1,100:38d1e5&height=180&text=Jeongdeok's%20github&animation=twinkling&fontColor=ffffff&fontSize=70" />
 </div>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Jeongdeok Jo </h2>  
@@ -44,7 +44,7 @@
         <tr>
             <td style="padding: 10px;">제 4회 대한민국 SW융합 해커톤 대회 자유과제 정보통신산업진흥원장상(우수상)</td>
             <td style="padding: 10px;">2017.09</td>
-            <td style="padding: 10px;">시각장애인을 위한 센서 기반 지팡이</td>
+            <td style="padding: 10px;">시각장애인을 위한 센서 기반 지팡이 제작</td>
         </tr>
     </table>
 </div>
