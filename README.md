@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b79e1,100:38d1e5&height=180&text=Jeongdeok's%20github&animation=twinkling&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b79e1,100:38d1e5&height=180&text=Jeongdeok's%20github&animation=twinkling&fontColor=ffffff&fontSize=80" />
 </div>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Jeongdeok Jo </h2>  
