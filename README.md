@@ -38,7 +38,7 @@
         </tr>
         <tr>
             <td style="padding: 10px;">도로 교통 안전 관리를 위한 추월차선 정속주행 탐지</td>
-            <td style="padding: 10px;">한국정보보호학회 (CISC-W 23) 제출 및 구두발표</td>
+            <td style="padding: 10px;">한국정보보호학회 (CISC-W 23)</td>
             <td style="padding: 10px;">2023.11</td>
         </tr>
     </table>
@@ -72,4 +72,10 @@
             <td style="padding: 10px;">시각장애인을 위한 센서 기반 지팡이 제작</td>
         </tr>
     </table>
+</div>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 Patents </h2> <br>
+    <ul style="text-align: left; font-size: 12px;">
+        <li><b>2023.12</b> - 차량의 부적합한 1차로 주행을 판별하는 전자 장치 및 이의 제어 방법</li>
+    </ul>
 </div>
