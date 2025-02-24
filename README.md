@@ -5,10 +5,10 @@
 <div style="display: flex; align-items: center;">
     <h2 style="border-bottom: none; color: #282d33; margin: 0; padding-right: 10px;">Jeongdeok Jo</h2>
     <div style="display: flex; gap: 5px;">
-        <a href="mailto:jeongdeogjo65@gmail.com">
+        <a href="mailto:jeongdeogjo65@gmail.com" style="display: inline-block;">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
-        <a href="https://www.instagram.com/j_duckkk/?igsh=MTBycW02b2xiamF1NA%3D%3D&utm_source=qr#">
+        <a href="https://www.instagram.com/j_duckkk/?igsh=MTBycW02b2xiamF1NA%3D%3D&utm_source=qr#" style="display: inline-block;">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
         </a>
     </div>
@@ -18,7 +18,6 @@
     <li>Department of Computer Engineering, Hallym University</li>
     <li>Graduate Student in MMC Lab (MultiMedia Laboratory)</li>
 </div>
-
 
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
     <li>Department of Computer Engineering, Hallym University</li>
