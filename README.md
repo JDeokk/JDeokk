@@ -9,7 +9,6 @@
     </div> 
 </div>
 <div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; margin-bottom: 4px;"> 📧 Contact </h2>
     <div style="margin: 0 auto; text-align: left;"> 
         <a href="mailto:jeongdeogjo65@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
