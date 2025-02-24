@@ -9,7 +9,8 @@
     </div> 
 </div>
 <div>
-    <div style="margin: 0 auto; text-align: left;, margin-top: 4px;"> 
+    <br>
+    <div style="margin: 0 auto; text-align: left;"> 
         <a href="mailto:jeongdeogjo65@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
