@@ -19,11 +19,27 @@
     </div>
 </div>
 <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Extracurricular Awards </h2> <br>
+    <table border="1" style="border-collapse: collapse; width: 80%; text-align: center;">
+        <tr>
+            <th style="padding: 10px; background-color: #f2f2f2;">Award</th>
+            <th style="padding: 10px; background-color: #f2f2f2;">Year</th>
+            <th style="padding: 10px; background-color: #f2f2f2;">Description</th>
+        </tr>
+        <tr>
+            <td style="padding: 10px;">Example Award</td>
+            <td style="padding: 10px;">2024</td>
+            <td style="padding: 10px;">Award description goes here</td>
+        </tr>
+    </table>
+</div>
+<div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> 
         <a href=mailto:jeongdeogjo65@gmail.com> 
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongdeogjo65@gmail.com"> 
         </a>
+        -
         <a href=https://www.instagram.com/j_duckkk/?igsh=MTBycW02b2xiamF1NA%3D%3D&utm_source=qr#> 
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_duckkk/?igsh=MTBycW02b2xiamF1NA%3D%3D&utm_source=qr#"> 
         </a>
