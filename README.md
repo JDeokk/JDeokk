@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b79e1,100:38d1e5&height=180&text=Jeongdeok's%20github&animation=twinkling&fontColor=ffffff&fontSize=80" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b79e1,100:38d1e5&height=180&text=Jeongdeok's%20github&animation=twinkling&fontColor=ffffff&fontSize=70" />
 </div>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Jeongdeok Jo </h2>  
@@ -19,8 +19,33 @@
     </div>
 </div>
 <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📄 Papers </h2> <br>
+    <table border="1" style="border-collapse: collapse; width: 80%; text-align: center; font-size: 12px;">
+        <tr>
+            <th style="padding: 10px; background-color: #f2f2f2;">Title</th>
+            <th style="padding: 10px; background-color: #f2f2f2;">Publication</th>
+            <th style="padding: 10px; background-color: #f2f2f2;">Year</th>
+        </tr>
+        <tr>
+            <td style="padding: 10px;">인공지능을 활용한 비장 크기 변화 및 항암 치료 반응 예측과 대장암 예후 분석</td>
+            <td style="padding: 10px;">-</td>
+            <td style="padding: 10px;">~ Present</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px;">Enhancement of Generalized CPR Techniques Using Generative AI: Model Development and Application in a Study</td>
+            <td style="padding: 10px;">Scientific Reports</td>
+            <td style="padding: 10px;">Peer Review</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px;">도로 교통 안전 관리를 위한 추월차선 정속주행 탐지</td>
+            <td style="padding: 10px;">한국정보보호학회 (CISC-W 23) 제출 및 구두발표</td>
+            <td style="padding: 10px;">2023.11</td>
+        </tr>
+    </table>
+</div>
+<div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Extracurricular Awards </h2> <br>
-    <table border="1" style="border-collapse: collapse; width: 80%; text-align: center;">
+    <table border="1" style="border-collapse: collapse; width: 80%; text-align: center; font-size: 12px;">
         <tr>
             <th style="padding: 10px; background-color: #f2f2f2;">Award</th>
             <th style="padding: 10px; background-color: #f2f2f2;">Year</th>
@@ -47,20 +72,4 @@
             <td style="padding: 10px;">시각장애인을 위한 센서 기반 지팡이 제작</td>
         </tr>
     </table>
-</div>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center" style="display: flex; justify-content: center; gap: 15px;"> 
-        <a href=mailto:jeongdeogjo65@gmail.com> 
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongdeogjo65@gmail.com"> 
-        </a>
-        <a href=https://www.instagram.com/j_duckkk/?igsh=MTBycW02b2xiamF1NA%3D%3D&utm_source=qr#> 
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_duckkk/?igsh=MTBycW02b2xiamF1NA%3D%3D&utm_source=qr#"> 
-        </a>
-    </div>  <br> 
-    <div align= "center"> 
-        <a href="https://hits.seeyoufarm.com"> 
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongdeok%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-        </a>
-    </div> 
 </div>
